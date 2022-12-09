@@ -5,6 +5,10 @@ public class TC002 {
 
     // Writing smoke tests...
 
+    // creating a report
+
+    // screenshot in failure
+
 
 
 }
